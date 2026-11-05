@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = "https://backend-educativo-dw.onrender.com"
+const API_URL = "https://backend-educativo-dw1.onrender.com"
 
 function App() {
   const [estudiante, setEstudiante] = useState(null);
